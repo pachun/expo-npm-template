@@ -5,7 +5,7 @@ Replace PROJECT_NAME with your project name.
 [![cov](https://pachun.github.io/PROJECT_NAME/badges/coverage.svg)](https://github.com/pachun/PROJECT_NAME/actions)
 ```
 
-1. Clone this PROJECT_NAME
+1. `git clone git@github.com:pachun/expo-npm-template.git && cd expo-npm-template`
 1. `rm -rf .git && git init .`
 1. Create a new repo on GitHub and add the remote to you new project
 1. [Follow these steps to setup the coverage badge](https://github.com/marketplace/actions/coverage-badge).
